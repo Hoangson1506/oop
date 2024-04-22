@@ -16,5 +16,6 @@ public class MaxMin {
         }
         System.out.println(max);
         System.out.println(min);
+        scanner.close();
     }
 }
